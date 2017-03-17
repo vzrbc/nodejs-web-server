@@ -1,7 +1,8 @@
 /**************************************************
 Steps to try out:
 - install Node.js
-- download this file to a local folder
+- download this file to a local folder from
+  https://github.com/vzrbc/nodejs-web-server.git
 - open a command prompt
 - cd [the local folder containing this file]
 - node server.js
