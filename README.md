@@ -4,11 +4,11 @@ Steps to try out:
 
 - install Node.js
 
-- download this file to a local folder
+- download server.js to a local folder
 
 - open a command prompt
 
-- cd [the local folder containing this file]
+- cd [the local folder containing server.js]
 
 - node server.js
 
